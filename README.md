@@ -1,5 +1,5 @@
 # PhD-thesis
-LaTeX files for my PhD Thesis. Currently a WIP.
+LaTeX files for my PhD Thesis. The compiled PDF can be viewed [here](https://raw.githubusercontent.com/Gardner-BinfLab/thesis-bikash/master/main.pdf).
 
 
 ### Compilation
@@ -16,3 +16,4 @@ These are the configurations that work.
       \usepackage{gfsartemisia-euler}
       \usepackage[T1]{fontenc}
       ```
+
